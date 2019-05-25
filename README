@@ -1,0 +1,9 @@
+Ulam Spiral
+===========
+
+Example code for an Ulam Spiral in cursed python, as
+shown in the screencast at - https://youtu.be/QUWWc-go690
+
+spiral.py - Calculates spiral x,y coordinates
+mycurse.py - Curses wrapper
+ulam.py - main program
